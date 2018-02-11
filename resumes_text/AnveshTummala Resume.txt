@@ -1,0 +1,603 @@
+Anvesh Tummala
+ 
+Phone
+: +1
+-
+703
+-
+568
+-
+7133
+ 
+ 
+E
+-
+Mail
+:
+ 
+anvesh525@gmail.com
+ 
+ 
+GitHub
+: 
+https://github.com/atmc9
+ 
+CAREER OBJECTIVE
+:
+ 
+T
+o solve challenging problems using Machine Learning techniques. 
+ 
+EDUCATION
+:
+ 
+ 
+Machine 
+Learning Engineer Nano Degree 
+
+ 
+Advance Level
+ 
+ 
+ 
+          
+December 2017
+ 
+U
+dacity Co
+-
+created with Kaggle
+       
+ 
+ 
+ 
+           
+          
+ 
+ 
+          
+GPA
+-
+ 
+4.0/4.0
+ 
+Master of Science in Computer
+ 
+Science 
+                                         
+                   
+        
+December 2015
+ 
+University of Missouri
+-
+ 
+Kansas City, Kansas City, MO, USA
+ 
+ 
+ 
+ 
+          
+GPA
+-
+ 
+3.97/4.0
+ 
+Bachelor of Technology 
+
+ 
+Computer Science
+ 
+and Systems Engineering
+                    
+ 
+       
+May 2013
+ 
+Andhra University Coll
+ege of Engineering, 
+Visakhapatnam
+, Andhra Pradesh, India
+ 
+        
+  
+GPA
+-
+ 
+3.80/4.0
+ 
+PROFESSIONAL EXPERIENCE:
+ 
+Yourmembership: 
+FullStack 
+Developer 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+Jan 
+2016 
+
+ 
+till date
+ 
+
+ 
+Develop
+ed 
+REST 
+API
+ 
+using ServiceS
+tack and consumed with 
+Angular4
+.
+ 
+Tested
+ 
+with Junit, 
+Jasmine.
+ 
+
+ 
+L
+everaged 
+Redis Caching, Message Bus architectures
+ 
+(used
+ 
+RedisMQ, AWS SNS services
+)
+ 
+ 
+
+ 
+Implemen
+ted 
+the payment tokenization for the PaySafe 
+processor
+.
+ 
+
+ 
+Implemented a custom OAuth 2.0 Identity management server, helped customers to securely 
+share their data wit
+h third party applications. 
+ 
+
+ 
+Implemented Facebook and LinkedIn 
+Login, which 
+helped
+ 
+in 
+easy login 
+experience.
+ 
+
+ 
+Migration of On
+-
+Premises web application environment to AWS cloud, 
+good
+ 
+experience 
+with AWS 
+s
+ervices like S3, ElasticCache
+-
+ 
+Redis, 
+ElasticSearch, 
+E
+C2, CloudFront, EBS,
+ 
+Route53, Lambda
+.
+ 
+
+ 
+Leveraging AWS services and refactoring the 
+Serach server application to use
+ 
+Elastic
+ 
+Search.
+ 
+
+ 
+Used CDN solution 
+-
+ 
+CloudFront 
+for serving S3 
+static 
+files
+,
+ 
+which reduced network latency.
+ 
+eGourmet
+ 
+Solutions
+:
+ 
+Software Intern               
+ 
+ 
+ 
+ 
+ 
+June
+ 
+2015 
+-
+ 
+Dec 2015
+ 
+
+ 
+Implemented
+ 
+Business Analytic Dashboards using Service Oriented Architecture 
+-
+ 
+SOA. 
+ 
+
+ 
+Developed 
+REST API
+ 
+with Redis Caching
+, and consumed it using DevExpress tools. 
+ 
+ 
+U
+MKC:
+ 
+Graduate 
+Teaching 
+Assistant
+                                                                   
+Jan 2015
+ 
+-
+ 
+May 
+2015
+ 
+Prestoo Software 
+Private 
+Limited
+: Software Developer
+ 
+ 
+ 
+ 
+ 
+  
+Sep 2013 
+-
+ 
+May 2014
+                                          
+ 
+
+ 
+Designed and 
+Developed a game
+ 
+prototype using
+ 
+Unity 3D that teaches Newton Laws of Motion. 
+ 
+TECHNICAL SKILL SET:
+ 
+Python, Scikit
+-
+learn, Pandas, Numpy, 
+OpenCV, Matplotlib, Seaborn, Keras, 
+TensorFlow, Data Visualization, Data Cleaning and Preprocessing, Data Analysis, Angular4, SQL, C#, Redis, 
+RedisMQ, 
+Git, Spark, Big Data, 
+Flask, Algorithms 
+
+ 
+Dynamic programming
+. 
+ 
+PERSONAL STRENGTHS:
+ 
+Critical thinking, Time 
+Management, Team Work skills,
+ 
+Loyalty,
+ 
+Learning Ability
+ 
+HONORS AND AWARDS
+:
+ 
+
+ 
+Winner of UMKC 
+IBM 
+H
+ackathon 
+2015
+ 
+ 
+ 
+ 
+     
+             
+April 2015
+ 
+
+ 
+Recipient of UMKC Dean Scholar Ship Award 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+Aug 2014
+ 
+ACADEMIC PROJECTS
+:
+ 
+Recruit Restaurant Visitor Forecasting
+ 
+
+ 
+K
+aggle 
+Competetion
+ 
+ 
+  
+Dec
+ 
+2017
+ 
+
+ 
+Jan 2018
+ 
+Currently ranked at 
+Top
+ 
+40 
+Percent
+. 
+This project is a combination of 
+clustering and regression problem. 
+ 
+Identifying resembling d
+og
+ 
+breed
+ 
+for human images
+ 
+
+ 
+CNN
+ 
+ 
+ 
+ 
+       
+Dec 2017
+ 
+Techniques:
+ 
+Transfer Knowledge from
+ 
+ResNet
+-
+50, Augmentation, tuning CNN architecture. 
+ 
+Train a Smartcab to Drive
+ 
+
+Q
+-
+Learning                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+Nov 2017
+ 
+Techniques: 
+Reinforcement Learning
+, Identify
+ing right sates, 
+State space, 
+Optimal policy vs policy learned
+. 
+ 
+Creating Customer Segments
+ 
+-
+ 
+Clustering
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+Nov
+ 
+2017
+ 
+Techniques: 
+Feature R
+elevance, 
+removed
+ 
+correlated features, scatter matrix, 
+heat
+ 
+maps
+, log
+-
+transfor
+mation 
+for highly skewed data, outlier d
+e
+tection, feature transformation using 
+principal component analysis, 
+Dimensionality Reduction, Visualizing a Biplot, KMeans
+ 
+-
+ 
+Clustering, Cluster Visualization, Data Recovery
+.
+ 
+Finding Donors for CharityML
+ 
+-
+ 
+Binary Classfication
+ 
+ 
+ 
+ 
+                   
+Oct
+ 
+2017
+ 
+Techniques:
+ 
+Data Exploration, Transforming Skewed Continuous Features, Normalizing Numerical Features, 
+Data Preprocessin
+g, Shuffle and Split Data, Initial Model Evaluation, Choosing the Best Model, Model Tuning 
+with Grid
+ 
+Search, Final Model Evaluation, Extracting Feature Importance, Feature Selection
+.
+ 
+Predicting Boston Housing Prices
+ 
+-
+ 
+Regression
+ 
+ 
+ 
+ 
+                   
+Aug 
+2017
+ 
+Techniques: 
+Learning Curves, 
+Model Complexity
+ 
+Graphs, Grid Search, Cross Validation
+. 
+ 
+Big Data project Extraction,
+ 
+Analyzing and Visualization of Tweets
+ 
+on Ebola    
+Aug 2014 
+
+ 
+Dec 2014
+ 
+Y
+oTube 
+-
+ 
+2nd Winner of Hack Battle
+-
+2015
+ 
+at UMKC                   
+       
+      
+April 2015 (
+3 Days Hackathon
+)
+ 
+Technologies: Java, MongoDB, HTML, CSS, JQuery, Bootstrap
+, FreeBase API
+ 
+Architecture Recovery of Apache Giraph
+ 
+(
+with 
+100
+K LOC
+)
+ 
+ 
+              
+Aug 2015 
+
+ 
+Dec 2015
+ 
+PickMeUp
+ 
+
+ 
+Airport 
+Pickup 
+Mashup 
+App
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Jan 
+2015 
+
+ 
+April 2015
+ 
+Steganography using Audio Video files
+ 
+ 
+ 
+ 
+              
+Dec 2012 
+
+ 
+May 2013
+ 
+      
+-
+ 
+view
+ 
+full
+ 
+profile
+ 
+ 
